@@ -6,9 +6,9 @@
 
 <h3 align="center">A passionate software developer from India </h3>
 <br/>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div align="left">
+    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
  💻 I'm currently in my **3rd year pursuing BTech in CSE from MIT-WPU**
  
